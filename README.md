@@ -1,97 +1,95 @@
 
-<h1 align="center">Hey, I'm Aditya Prasad Himanshu 👋</h1>
+# BUILDING THE FUTURE · [@adiiityaz](https://github.com/adiiityaz)
 
-<h3 align="center">
-Founder & CEO @ Rasoi Setu | Full-Stack Product Builder | SaaS Entrepreneur
-</h3>
+> Founder & CEO · Full-Stack Product Engineer · SaaS Architect  
+> Building technology products, scalable systems and digital experiences.
 
-<p align="center">
-  Building technology, products and digital experiences
-  that solve real-world problems.
-</p>
+```text
+██╗  ██╗███████╗██╗     ██╗      ██████╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
 
-<p align="center">
-  <a href="https://rasoisetu.in">Rasoi Setu</a> •
-  <a href="https://elveiq.in">Elveiq</a> •
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
-</p>
+       BUILDING PRODUCTS THAT MATTER
+```
 
----
+## Identity, with signal
 
-## 🚀 About Me
+| Engineering Profile & Positioning | LIVE SIGNAL |
+|---|---|
+| **Building useful technology for real-world businesses.** | Founder & CEO |
+| Focus: `React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Redis` | Rasoi Setu |
+| Product engineering, SaaS architecture, API development, automation and business technology. | Full-Stack |
+| Turning ideas into scalable products through engineering and execution. | Build · Grow · Scale |
 
-I'm Aditya, a technology entrepreneur and product builder
-passionate about creating scalable digital products.
+## What moves the work — Ideas taking shape
 
-- 👨‍💻 Founder & CEO of **Rasoi Setu**
-- 🍽️ Building technology for restaurants and hospitality businesses
-- 💻 Interested in Full-Stack Development and SaaS Architecture
-- ⚙️ Working with modern web technologies and API-driven systems
-- 📈 Exploring Cloud Infrastructure, Automation and DevOps
-- 🌱 Building products that connect technology with real-world business needs
+| 01 · Current Focus | 02 · Building | 03 · Exploring |
+|---|---|---|
+| Full-Stack Engineering | Rasoi Setu | AI & Automation |
+| SaaS Architecture | Restaurant Technology | Cloud & DevOps |
+| Backend Systems | Digital Products | Scalable Infrastructure |
+| API Engineering | Business Growth Tools | Intelligent Applications |
 
----
+## Products & Ventures
 
-## 🏗️ What I'm Building
+### 01 · Rasoi Setu
+**Restaurant Technology & Growth Platform**
 
-### 🍽️ Rasoi Setu
-A technology and growth platform for restaurants, cafes and hospitality businesses.
+Building an integrated ecosystem for restaurants, cafes and hospitality businesses.
 
-Website: https://rasoisetu.in
+`POS` `Billing` `Online Ordering` `Operations` `SaaS`
 
-### 💡 Elveiq
-Building digital solutions and technology-driven growth experiences.
+→ https://rasoisetu.in
 
-Website: https://elveiq.in
+### 02 · Elveiq
+**Digital Solutions & Technology**
 
----
+Building digital experiences and technology-driven business solutions.
 
-## 🛠️ Technology Stack
+→ https://elveiq.in
 
-**Frontend**
-- React.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Vite
+### 03 · Scaliz
+**Business Growth Platform**
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- Prisma ORM
+Working across social media, CRM, local SEO and digital growth.
 
-**Database**
-- PostgreSQL
-- Redis
+→ https://scaliz.in
 
-**Tools & Platforms**
-- Git & GitHub
-- Capacitor
-- Sentry
-- PostHog
-- Railway
+## Engineering Stack
 
----
+| FRONTEND | BACKEND | DATABASE & INFRASTRUCTURE |
+|---|---|---|
+| React | Node.js | PostgreSQL |
+| TypeScript | Express.js | Redis |
+| JavaScript | REST APIs | Prisma |
+| Tailwind CSS | Capacitor | Railway |
+| Vite | Authentication & RBAC | Sentry |
 
-## 🎯 Current Focus
+## Engineering Philosophy
 
-- Building scalable SaaS applications
-- Full-Stack Product Engineering
-- Cloud & DevOps Architecture
-- API Design and System Integration
-- AI-powered applications and automation
+- Build for real-world problems.
+- Design systems that scale.
+- Keep architecture maintainable.
+- Focus on performance and reliability.
+- Turn ideas into working products.
 
----
+## GitHub Activity
 
-## 🤝 Let's Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiiityaz&show_icons=true&theme=transparent&hide_border=true)
 
-- 🌐 Website: https://rasoisetu.in
-- 💼 GitHub: https://github.com/YOUR_USERNAME
-- 📧 Email: YOUR_EMAIL
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiiityaz&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
-<p align="center">
-  <i>Build. Grow. Scale.</i>
-</p>
+<div align="center">
+
+### BUILD. GROW. SCALE.
+
+**Engineering ideas into reality.**
+
+[GitHub](https://github.com/adiiityaz) · [Rasoi Setu](https://rasoisetu.in)
+
+</div>
